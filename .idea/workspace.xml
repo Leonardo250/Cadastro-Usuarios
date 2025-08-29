@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9a99ecb-48d7-4b46-ba6e-9ff9196a10ea" name="Changes" comment="pequena atualizacao">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ProjetoEstudo/Cadastro_usuario/business/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ProjetoEstudo/Cadastro_usuario/infrastruture/repository/UsarioRepository.java" afterDir="false" />
+    <list default="true" id="b9a99ecb-48d7-4b46-ba6e-9ff9196a10ea" name="Changes" comment="CRUD criado">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ProjetoEstudo/Cadastro_usuario/controller/UsuarioController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1756001192813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CRUD criado">
+      <option name="closed" value="true" />
+      <created>1756428015430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756428015430</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
     <MESSAGE value="Pacotes do modelo de camas prontos e classe usuario criada" />
     <MESSAGE value="pequena atualizacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="pequena atualizacao" />
+    <MESSAGE value="CRUD criado" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD criado" />
   </component>
 </project>
